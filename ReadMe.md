@@ -1,4 +1,6 @@
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e47j03aydnxcxabnot1fe1freu1nt6uzvhisjzack6j&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <h1>Welcome!</h1>
+<br><br>I'm Pablo! Let me present a little about myself :D<br>
 <hr>
 <br><br>I'm Pablo! Let me present a little about myself :D<br><br>Full-Stack focused in .NET | Software engineer 🤖<br><br>Lover of Technology and coding ❤️<br><br>
 
