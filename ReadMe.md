@@ -1,5 +1,6 @@
-# 💫 About Me:
-<h1>Welcome!</h1><br><br>I'm Pablo! Let me present a little about myself :D<br><br>Full-Stack focused in .NET | Software engineer 🤖<br><br>Lover of Technology and coding ❤️<br><br>
+<h1>Welcome!</h1>
+<hr>
+<br><br>I'm Pablo! Let me present a little about myself :D<br><br>Full-Stack focused in .NET | Software engineer 🤖<br><br>Lover of Technology and coding ❤️<br><br>
 
 
 ## 🌐 Socials:
