@@ -2,7 +2,7 @@
 <h1>Welcome!</h1>
 I'm Pablo! Let me present a little about myself :D<br>
 <hr>
-Full-Stack focused in .NET | Software engineer 🤖<br><br>Lover of Technology and coding ❤️
+Full-Stack focused in JAVA and .NET | Software engineer 🤖<br><br>Lover of Technology and coding ❤️
 
 
 ## 🌐 Socials:
